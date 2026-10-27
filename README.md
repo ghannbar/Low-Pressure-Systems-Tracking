@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# FASHAR
+# Low-Pressure Systems Tracking
 
 A set of local web tools for downloading NCEP/NCAR Reanalysis geopotential-height (`hgt`) data and detecting and tracking low-pressure systems (cyclones) in it. Each tool is a single-file Flask app with a browser UI and live progress streaming.
 
